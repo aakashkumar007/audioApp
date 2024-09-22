@@ -1,7 +1,6 @@
 /* eslint-disable no-unused-vars */
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
-import Home from './component/Home';
 import Player from './component/Player';
 import Audio from './component/Audio';
 import Src from './Src';
